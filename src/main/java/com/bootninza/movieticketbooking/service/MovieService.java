@@ -8,6 +8,7 @@ import org.springframework.stereotype.Service;
 
 @Service
 public class MovieService {
+    //i am using movie service class right now
      @Autowired
      private MovieRepo movieRepo;
 
